@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201354412987",
+    "project_id": "feeding-game-56090",
+    "storage_bucket": "feeding-game-56090.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201354412987:android:ededcb8ab7bf484c0c3a9e",
+        "android_client_info": {
+          "package_name": "com.example.feeding_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201354412987-ao7pt5lpl4indlhlt3mtka5sofvtssi6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFHiXNcBABgNfmf17p2i7XAlFpwQzICaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201354412987-ao7pt5lpl4indlhlt3mtka5sofvtssi6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
